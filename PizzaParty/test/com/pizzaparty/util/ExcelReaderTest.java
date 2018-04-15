@@ -10,7 +10,7 @@ public class ExcelReaderTest {
 
 	@Test
 	public void test() {
-		ExcelReader er = new ExcelReader("input/dominosdata.xlsx");
+		ExcelReader er = new ExcelReader("input/pizzaparty.xlsx");
 		er.readExcelFile();
 	}
 
