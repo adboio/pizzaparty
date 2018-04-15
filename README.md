@@ -1,2 +1,2 @@
 # pizzaparty
-Analyzing over 25,000 pizza deliveries in Raleigh, NC
+Analyzing nearly 25,000 pizza deliveries in Raleigh, NC
