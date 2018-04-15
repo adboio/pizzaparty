@@ -1,4 +1,4 @@
-package com.dominosdata.model;
+package com.pizzaparty.model;
 
 public class Delivery {
 	private String name;

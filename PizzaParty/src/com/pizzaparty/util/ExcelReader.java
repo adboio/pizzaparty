@@ -1,4 +1,4 @@
-package com.dominosdata.util;
+package com.pizzaparty.util;
 
 import java.io.IOException;
 
@@ -8,7 +8,7 @@ import java.util.Iterator;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.*;
 
-import com.dominosdata.model.Delivery;
+import com.pizzaparty.model.Delivery;
 
 public class ExcelReader {
 	private static final int ORDER_NUM_LENGTH = 6;
