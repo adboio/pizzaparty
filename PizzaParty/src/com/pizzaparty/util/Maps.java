@@ -13,7 +13,7 @@ import com.google.gson.Gson;
 import com.pizzaparty.geocoding.GeocodeResponse;
 
 /**
- * Class for interacting with the Google Maps Geocode API
+ * Class for interacting with the Google Maps API
  * @author adambowker
  *
  */
