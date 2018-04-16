@@ -33,7 +33,7 @@ public class Maps {
 	
 	public GeocodeResponse getGeocode() {
 		String call = BASE_URL + "address=" + this.address + "&key=" + this.key;
-		
+		System.out.println(call);
 		try {
 			Scanner reader = new Scanner(new URL(call).openStream(), "UTF-8");
 			reader.useDelimiter("\\A");
